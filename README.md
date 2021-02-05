@@ -1,7 +1,7 @@
 # doriandubois.github.io
 portfolio de dorian dubois étudiant en BTS SIO
-
-
+![](https://github.com/Xziknight/doriandubois.github.io/blob/main/CSS%20icone.png)
+| ------ |
 
 1) mettre en oeuvre plusieurs technologie web tel que:
 
