@@ -1,6 +1,6 @@
 # doriandubois.github.io
 portfolio de dorian dubois étudiant en BTS SIO
-
+![](https://github.com/Xziknight/doriandubois.github.io/blob/main/net%20beans%20image%20(Personnalis%C3%A9).jfif)
 | ------ |
 
 1) mettre en oeuvre plusieurs technologie web tel que:
