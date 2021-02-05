@@ -1,7 +1,7 @@
 # doriandubois.github.io
 portfolio de dorian dubois étudiant en BTS SIO
 
-[![N|Solid](doriandubois.github.io)
+[![N|Solid](doriandubois.github.io)](1200px-Apache_NetBeans_Logo.svg)
 
 1) mettre en oeuvre plusieurs technologie web tel que:
 
