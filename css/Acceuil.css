@@ -7,6 +7,6 @@ and open the template in the editor.
     Created on : 19 févr. 2021, 08:33:30
     Author     : dorian.dubois
 */
-.entete {margin-left: 10px;}
+.entete {text-align: left}
 .couleurdefond {background-color: grey}
 #photo-entete{}
